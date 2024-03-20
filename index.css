@@ -1,0 +1,12 @@
+body{
+    background-color: bisque;
+ 
+}
+
+.img{
+    display: block;
+    gap: 5px;
+   margin: 20px;
+   padding: 20px;
+   border-radius: 100px;
+}
